@@ -123,5 +123,8 @@
       }
     }
   },
-  "defaultProject": "angular-notes-crud"
+  "defaultProject": "angular-notes-crud",
+  "cli": {
+    "analytics": false
+  }
 }
