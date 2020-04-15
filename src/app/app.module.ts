@@ -11,6 +11,7 @@ import { ListaLembreteComponent } from './paginas/lista-lembrete/lista-lembrete.
 import { FormLembreteComponent } from './compartilhado/form-lembrete/form-lembrete.component';
 import { FormsModule } from '@angular/forms';
 import { CriarLembreteComponent } from './paginas/criar-lembrete/criar-lembrete.component';
+import { EditarLembreteComponent } from './paginas/editar-lembrete/editar-lembrete.component';
 
 @NgModule({
   declarations: [
@@ -19,6 +20,7 @@ import { CriarLembreteComponent } from './paginas/criar-lembrete/criar-lembrete.
     ListaLembreteComponent,
     FormLembreteComponent,
     CriarLembreteComponent,
+    EditarLembreteComponent,
 
   ],
   imports: [
